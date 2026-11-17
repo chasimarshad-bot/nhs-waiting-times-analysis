@@ -1,0 +1,17 @@
+# Environments
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Data (keep folders, ignore big files)
+data/raw/*
+data/clean/*
+!data/raw/.gitkeep
+!data/clean/.gitkeep
+*.db
+*.sqlite
+
+# OS / editor
+.DS_Store
+.vscode/
