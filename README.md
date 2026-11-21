@@ -1,6 +1,7 @@
 # NHS A&E Waiting Times Analysis
 
 > **Live dashboard:** [Open the Streamlit dashboard](https://nhs-waiting-times-analysis-qdjsfpjiujjt4ym74pigt4.streamlit.app/)
+> **Case study:** [Read the NHS A&E portfolio case study](NHS_AE_Portfolio_Case_Study.md)
 >
 > Portfolio project using NHS England aggregate data, Python, SQL, SQLite, Jupyter, and Streamlit.
 
